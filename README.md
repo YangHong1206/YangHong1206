@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YangHong1206
 - 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning google data analysis in coursera
-- 💞️ I’m looking to collaborate on ^^^^
+- 🌱 I’m currently learning Google data analysis in Coursera
 - 📫 How to reach me email: shevril@gmail.com
 
 <!---
