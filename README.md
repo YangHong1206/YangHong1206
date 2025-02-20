@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YangHong1206
 - 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning Google data analysis in Coursera
+- 🌱 I’m currently living in Foochow.
 - 📫 How to reach me email: shevril@gmail.com
 
 <!---
