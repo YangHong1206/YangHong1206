@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YangHong1206
-- 👀 I’m interested in Data analysis
+- 👀 I’m interested in Data science
 - 🌱 I’m currently living in Foochow.
 - 📫 How to reach me email: shevril@gmail.com
 
